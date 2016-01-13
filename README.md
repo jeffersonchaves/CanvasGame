@@ -1,1 +1,1 @@
-- Aplicação Angular para consulta.
+Aplicação Angular para consulta.

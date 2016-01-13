@@ -1,18 +1,7 @@
-<<<<<<< HEAD
-# Aplicação Angular para consulta.
+# CanvasGame
 
 ## Referências: 
 
-- https://www.youtube.com/watch?v=hnO4yZL3VCI
-- http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro
+- https://www.youtube.com/watch?v=z3r8up9cz3w&list=PL1EkVGo1AQ0Hsqhvjm4khfp6innDjpj9J
 
-## Fetures
-
-- MVVM
-- HTML & JS
-- Filters
-- Directory
-=======
-# CanvasGame
 Game simples com uso de javascript e html canvas
->>>>>>> 7a0274e99fba4ce5ca909c294a2bfefd475938a0
